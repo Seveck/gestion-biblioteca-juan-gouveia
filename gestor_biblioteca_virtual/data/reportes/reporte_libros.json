@@ -1,0 +1,27 @@
+[
+    {
+        "categoria": "novela",
+        "libros": [
+            {
+                "titulo": "metamorfosis",
+                "autor": "franz kafka",
+                "estado": "Disponible"
+            },
+            {
+                "titulo": "don quijote de la mancha",
+                "autor": "miguel de cervantes",
+                "estado": "Disponible"
+            }
+        ]
+    },
+    {
+        "categoria": "ficcion",
+        "libros": [
+            {
+                "titulo": "orgullo y prejuicio",
+                "autor": "jane austen",
+                "estado": "Disponible"
+            }
+        ]
+    }
+]

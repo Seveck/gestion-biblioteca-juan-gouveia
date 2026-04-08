@@ -1,0 +1,26 @@
+[
+    {
+        "titulo": "metamorfosis",
+        "autor": "franz kafka",
+        "genero": "novela",
+        "anio_publicacion": 1915,
+        "estado": "disponible",
+        "prestado_a": null
+    },
+    {
+        "titulo": "don quijote de la mancha",
+        "autor": "miguel de cervantes",
+        "genero": "novela",
+        "anio_publicacion": 1605,
+        "estado": "disponible",
+        "prestado_a": null
+    },
+    {
+        "titulo": "orgullo y prejuicio",
+        "autor": "jane austen",
+        "genero": "ficcion",
+        "anio_publicacion": 1813,
+        "estado": "disponible",
+        "prestado_a": null
+    }
+]
